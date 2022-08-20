@@ -4,9 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prashant Pagare</h1>
-<h3 align="center">A Data Science Enthusiast from India ![image](https://user-images.githubusercontent.com/104510947/185741216-2bdcf7df-c72a-4c9f-8702-2979c761477d.png)
-
-</h3>
+<h3 align="center">A Data Science Enthusiast from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitv2524&label=Profile%20views&color=0e75b6&style=flat" alt="ankitv2524" /> </p>
