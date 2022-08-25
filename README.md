@@ -1,8 +1,5 @@
 <!-- MASTER PIC -->
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://indoanalytica.com/static/images/data-science-2.gif" height="175px"/></a>
-
-
 <h1 align="center">Hi 👋, I'm Prashant Pagare</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
