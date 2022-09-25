@@ -10,7 +10,7 @@
 <br>
 <img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🌱 I’m currently learning **Data Analytics Tools**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://prashantpagaree.dev.voyage](https://prashantpagaree.dev.voyage)
 
